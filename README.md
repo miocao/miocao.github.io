@@ -1,2 +1,0 @@
-# miocao.github.io
-events
